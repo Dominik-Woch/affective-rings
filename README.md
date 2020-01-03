@@ -1,5 +1,5 @@
 # Affective Rings
-Repository with working build of my master thesis "Affective Rings" - prototype of game using biophysiological effort correlates
+Repository with working build of my master thesis "Affective Rings" - prototype of game using biophysiological effort correlates.
 
 *Made with [Unity 2018.3.8f1](https://unity.com/)*
 
