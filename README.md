@@ -5,7 +5,7 @@ Repository with working build of my master thesis "Affective Rings" - prototype 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png" width="250">
 
-## Epilepsy warning:
+## Epilepsy Warning
 
 Some people may be at risk of epileptic seizures caused by visual effects associated with flickering in the Affective Rings game. Even people who have never experienced such attacks may have undiagnosed medical conditions that can cause visual epileptic attacks when watching or using the "Affective Rings" game.
     
@@ -19,3 +19,7 @@ The risk of epileptic seizures can be reduced by taking precautions:
 - Ensure that the room is well lit
 - Play in short sessions lasting several minutes
 - If your family has had symptoms of epilepsy, consult a doctor
+
+## Additional Information
+
+Project prepared for short sessions during which difficulty level would adjust to the player's GSR changes (thanks to biophysiological data acquisition with usage of BITalino (r)evolution Board Kit).  This goal comes before quality of gameplay experience (esp. amount of lives, amount of rings and pulsating visual effects may not be optimal for normal sessions). Game begins with short (30s) video for baseline establishment purposes. 
